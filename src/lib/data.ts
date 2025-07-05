@@ -25,7 +25,7 @@ export const neuralNetworkConfig: NeuralNetworkData = {
 export const predictionFactors = [
   'Market volatility patterns',
   'Historical platinum performance',
-  'Economic indicators',
+  'Headcount changes',
   'Temporal seasonality',
   'Regulatory changes',
   'Supply chain disruptions',
